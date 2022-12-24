@@ -6,8 +6,9 @@ function App() {
   const [count, setCount] = useState(0)
 
   return (
-    <div className="Staging Development App">
+    <div className="App">
       <div>
+        <h1>Staging Development</h1>
         <a href="https://vitejs.dev" target="_blank">
           <img src="/vite.svg" className="logo" alt="Vite logo" />
         </a>
